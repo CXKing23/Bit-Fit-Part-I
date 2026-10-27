@@ -1,10 +1,10 @@
 # Android Project 5 — BitFit
 
-Submitted by: **[Your name]**
+Submitted by: Christian King
 
 **BitFit** is a daily hydration tracker. Record the amount of water you drink each day in fluid ounces, review past entries, and see a month-long intake chart and average. A sample month is added on first launch so the calendar and trends are populated for a demo.
 
-Time spent: **[Fill in your total hours]**
+Time spent: 5
 
 ## Required Features
 
@@ -37,7 +37,7 @@ The project began from the Android Studio starter screen. The main implementatio
 
 ## License
 
-Copyright [year] [copyright owner]
+Copyright 2026 Christian King
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
